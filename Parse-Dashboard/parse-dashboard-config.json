@@ -1,9 +1,11 @@
+//I'm editing this file only for my purposes
+
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": " http://ibr.herokuapp.com/api",
+    "appId": "maranata-eq9gB6k7sK8CEmEE2Ta8ftcKep83r",
+    "masterKey": "QS4AYjNzAb8kj5gAGTK5mTawbPq4V",
+    "appName": "app-ibrenacer",
     "iconName": ""
   }],
   "iconsFolder": "icons"
